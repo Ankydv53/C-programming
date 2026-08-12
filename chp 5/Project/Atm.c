@@ -1,3 +1,7 @@
+// Program: Digital ATM
+// Concept: =if else,switch,functions
+// Author: Ankit Yadav
+// Date: 10-08-2026
 #include<stdio.h>
 
 int amount();
