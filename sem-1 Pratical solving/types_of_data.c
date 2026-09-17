@@ -18,7 +18,7 @@ int main(){
     printf("You have scored: %.2f\n",percentage);
 
     printf("Enter a character: ");
-    scanf("%c",&symbol);
+    scanf(" %c",&symbol);
     printf("Your character is: %c\n",symbol);
 
     return 0;
