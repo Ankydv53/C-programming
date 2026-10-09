@@ -1,0 +1,18 @@
+#include<stdio.h>
+int main(){
+    int matrix[3][3];
+    printf("Enter matrix: \n");
+    for(int i=0;i<=2;i++){
+        for(int j=0;j<=2;j++){
+            scanf("%d",&matrix[i][j]);
+        }
+    }
+    printf("The matrix is:\n");
+    for(int i=0;i<=2;i++){
+        for(int j=0;j<=2;j++){
+            printf(" %d\t",matrix[j][i]);
+        }
+        printf("\n");
+    }
+    return 0;
+}
