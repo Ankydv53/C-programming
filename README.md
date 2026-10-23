@@ -84,13 +84,6 @@ gcc filename.c -o program
 - **Semester:** 1
 - **Focus:** C Programming Fundamentals
 
-## Future Improvements
-
-- Improve input validation and error handling
-- Test programs with edge cases
-- Add sample input/output for selected programs
-- Keep source code readable and well-documented
-
 ## Disclaimer
 
 This repository is for educational and academic purposes. The code represents my learning progress and may be refined as my skills improve.
